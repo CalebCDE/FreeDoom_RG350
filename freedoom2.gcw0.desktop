@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=FreeDoom Ph. II
+Comment=FreeDoom Phase II.
+Exec=prboom-launcher2
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=freedoom2
+Categories=games;
+X-OD-Manual=manual.txt
+X-OD-Manual[es]=manualES.txt
+Name[es]=FreeDoom Ph. II
+Comment[es]=FreeDoom Phase II

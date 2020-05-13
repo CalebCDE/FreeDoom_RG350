@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=FreeDoom Launcher
+Comment=FreeDoom Phase I.
+Exec=launcher
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=freedoom1
+Categories=games;
+X-OD-Manual=manual.txt
+X-OD-Manual[es]=manualES.txt
+Name[es]=FreeDoom Launcher
+Comment[es]=FreeDoom Phase I
+Name[es_ES]=launcher.gcw0.desktop

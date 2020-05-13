@@ -1,0 +1,13 @@
+#!/bin/sh
+
+mkdir /media/home/.odamex/
+dialog --title "Custom Config file for FreeDoom" --msgbox "ESP- Este instalador hará un backup de tu configuración actual en el archivo odamex.old y luego copiará la configuración mejorada a la carpeta de odamex (FreeDoom), tras esto inicia el juego, podrás ver las teclas asignadas en el manual del archivo, puedes revertir esto eligiendo la configuración por defecto en el juego. Pulsa <<Start>> para instalar.
+
+ING- This installer make a backup of your current configuration in a file called odamex.old and then will copy the improved config in the odamex folder (FreeDoom), after that start the game, you can see the key scheme in the manual, also you can revert this in the game options, choosing the default options. Press <<Start>> for install" 0 0
+cp /media/home/.odamex/odamex.cfg /media/home/.odamex/odamex.old
+cp odamex.cfg /media/home/.odamex/odamex.cfg
+
+dialog --title "Custom Config file for FreeDoom" --msgbox "ESP- Hecho, disfruta del juego y recuerda leer el manual de este enlace para ver la nueva configuración.
+
+ING- Done, enjoy the game and remember watch the user manual of this file for see the new configuration." 0 0
+exit

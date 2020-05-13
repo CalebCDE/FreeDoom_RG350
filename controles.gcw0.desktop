@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Inst. Best Scheme
+Comment=Intall the best Control Scheme for FreeDoom (RTFM)
+Exec=controles
+Terminal=true
+Type=Application
+StartupNotify=true
+Icon=wasd
+Categories=settings;
+X-OD-Manual=controles.txt
+X-OD-Manual[es]=controleses.txt
+Name[es]=Controles FreeDoom
+Comment[es]=Config. de control para FreeDoom (LEE EL MANUAL)

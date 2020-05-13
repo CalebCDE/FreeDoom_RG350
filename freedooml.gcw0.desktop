@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=FreeDoom Leg.
+Comment=Legacy Version.
+Exec=prboom-launcherl
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=freedooml
+Categories=games;
+X-OD-Manual=manual.txt
+X-OD-Manual[es]=manualES.txt
+Name[es]=FreeDoom Cla.
+Comment[es]=Versión Clásica

@@ -1,0 +1,19 @@
+Esquema de control para odamex.
+-------------------------------
+
+El personaje corre automáticamente.
+La retícula cambia de color según la salud que tengamos.
+La vista libre está activada para apuntar mejor.
+
+Sticks: movimiento
+Pulsar el stick Izq, giro de 180º
+L1 baja al arma anterior
+R1 dispara
+R2 arma superior
+Select Mapa
+B Interactuar o abrir puertas
+Y Saltar
+X Caminar
+Cruceta: Movimiento basico (Alante, atras y giros)
+Start Abre el menú
+A Interactuar con los menús.

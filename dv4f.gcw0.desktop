@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=FreeDoom Ph. I D4V
+Comment=FreeDoom Phase I.
+Exec=d4v
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=freedooml
+Categories=games;
+X-OD-Manual=manual.txt
+X-OD-Manual[es]=manualES.txt
+Name[es]=FreeDoom Ph. I
+Comment[es]=FreeDoom Phase I
+Name[es_ES]=dv4f.gcw0.desktop

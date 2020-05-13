@@ -1,0 +1,52 @@
+===============================
+Manual del Pack de FreeDoom
+===============================
+Version del OPK: 1.1a
+===============================
+Fecha de Lanzamiento: 10/05/2020
+===============================
+
+Empaquetado por: _-Caleb-_ 
+e-mail: cqleb@tuta.io
+Telegram: @calebin
+
+=========================================
+FreeDoom para RG350 usa el engine Odamex
+=========================================
+Wads Incluídos:
+==============
+-Versión Clásica 0.8-beta1 (12-05-2012)
+- Phase I: Version 0.12.1 (22-10-2019) 
+- Phase II: Version 0.12.1 (22-10-2019)
+=========================================
+
+Sitio web de FreeDoom: https://freedoom.github.io/
+Sitio web de Odamex: https://odamex.net/
+Código Fuente de Odamex para GCW-Zero: https://github.com/JohnnyonFlame/odamex
+
+
+Para jugar com ambos Sticks Digitales, sólo activa el modo Joystick en el menú Options/Joystick
+
+Sólo necesitas modificar las teclas / ejes una vez, los 3 juegos usan la misma configuración. (¡GENIAL!)
+
+Cuidado con las partidas guardadas, son incompatibles entre los juegos.
+
+
+Log de cambios
+==========
+
+v 1.1b
+
+Creado acceso directo con instalador de configuración de control recomendada en el menú Settings. 
+
+v 1.1a 
+
+Añadidos recursos en español
+Eliminado el engine prboom y vuelta a Odamex
+Añaddos los créditos de FreeDoom
+Añadidos los créditos de Odamex
+Añadido "exit" en la última lína de los scripts
+
+v 1.1 (NO PUBLICADA)
+Cambio de engine de Odamex a Prboom+
+

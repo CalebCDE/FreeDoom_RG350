@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=FreeDoom Ph. I
+Comment=FreeDoom Phase I.
+Exec=prboom-launcher1
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=freedoom1
+Categories=games;
+X-OD-Manual=manual.txt
+X-OD-Manual[es]=manualES.txt
+Name[es]=FreeDoom Ph. I
+Comment[es]=FreeDoom Phase I

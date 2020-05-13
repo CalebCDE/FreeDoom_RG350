@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./odamex -iwad freedoom2.wad
+exit

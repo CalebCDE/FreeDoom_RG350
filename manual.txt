@@ -1,0 +1,54 @@
+===============================
+FreeDoom Pack Manual
+===============================
+OPK Version: 1.1a
+===============================
+Release date: 10/05/2020
+===============================
+
+Packed by: _-Caleb-_ 
+e-mail: cqleb@tuta.io
+Telegram: @calebin
+
+=========================================
+FreeDoom for RG350 use Odamex Doom Engine
+=========================================
+Wads included:
+==============
+- Legacy: Version 0.8-beta1 (12-05-2012)
+- Phase I: Version 0.12.1 (22-10-2019) 
+- Phase II: Version 0.12.1 (22-10-2019)
+=========================================
+
+Freedoom website: https://freedoom.github.io/
+Odamex Main website: https://odamex.net/
+Odamex GCW-ZERO Source: https://github.com/JohnnyonFlame/odamex
+
+
+ENG:
+====
+
+For play with the digital Sticks, just enable the joystick in Options/Joystick Options.
+
+You just need customize the keys / axis one time, the 3 games use same configuration. (GREAT!)
+
+Careful with the saved games, they are incompatible between games.
+
+Changelog:
+==========
+
+v 1.1b
+
+Added shotcurt in settings section with the installer of the best control scheme.
+
+v 1.1a 
+
+Added Spanish language resources
+Reverted Doom Engine (Back to Odamex)
+Added FreeDoom Credits
+Added Odamex Credits
+Added "exit" on the script's endline
+
+v 1.1 (NOT RELEASED)
+Changing Odamex engine for Prboom+.
+

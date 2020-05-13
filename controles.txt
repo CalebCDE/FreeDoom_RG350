@@ -1,0 +1,19 @@
+Control Scheme for odamex.
+--------------------------
+
+Autorun is enabled.
+The reticle changes color depending on the health we have.
+Freelook is enabled for aim better.
+
+Sticks: Movements
+Left Stick Clic: 180º turn
+L1 prev. weapon
+R1 fire
+R2 next. weapon
+Select Map
+B interact (Open doors)
+Y jump
+X walk
+Crosstree: Basic movement (Forward, backward and turns)
+Start Open the menu
+A Interact with Menus.

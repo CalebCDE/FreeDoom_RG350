@@ -1,0 +1,4 @@
+#!/bin/sh
+
+dialog --radiolist "FreeDoom Launcher:" 0 0 0 1 "FreeDoom Legacy" off  2 "FreeDoom Phase I" on 3 "FreeDoom Phase II" off 4 "Instalar Controles" off
+exit
